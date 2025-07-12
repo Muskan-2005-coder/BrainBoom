@@ -4,12 +4,6 @@ BrainBoom is an AI-powered chatbot built using the **React.js** and integrated w
 
 ---
 
-## 🌐 Live Demo
-
-🔗 [muskan-kumari-brain-boom-vwrk.vercel.app/](https://muskan-kumari-brain-boom-vwrk.vercel.app/) 
-
----
-
 ## 🚀 Features
 
 - 🤖 Real-time AI chatbot powered by OpenAI
