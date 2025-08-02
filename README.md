@@ -35,9 +35,3 @@ BrainBoom is an AI-powered chatbot built using the **React.js** and integrated w
 ## 🌍 Deployment
 Deployed on Vercel
 
-## MIT License
-
-Copyright (c) 2025 Muskan Kumari
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the “Software”), to deal
-in the Software without restriction...
