@@ -32,6 +32,5 @@ BrainBoom is an AI-powered chatbot built using the **React.js** and integrated w
 2. The frontend sends a request to the Open API.
 3. The AI-generated reply is sent back and displayed in the chat.
 
-## 🌍 Deployment
-Deployed on Vercel
+
 
