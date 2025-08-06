@@ -1,14 +1,14 @@
 # 🧠 BrainBoom – AI Chatbot Web App
 
-BrainBoom is an AI-powered chatbot built using the **React.js** and integrated with **OpenAI's GPT model** to simulate intelligent conversations in real time. This project is having AI integrations.
+BrainBoom is an AI-powered chatbot built using the **React.js** and integrated with **Google's Gemini API** to simulate intelligent, context-aware conversations in real time.
 
 ---
 
 ## 🚀 Features
 
-- 🤖 Real-time AI chatbot powered by OpenAI
+- 🤖 Real-time AI chatbot powered by Google Gemini API
 - 💬 Chat history management
-- 🔐 User authentication (optional)
+- 🔐 User authentication
 - 📦 Modern stack implementation
 
 ---
@@ -17,8 +17,8 @@ BrainBoom is an AI-powered chatbot built using the **React.js** and integrated w
 
 | Technology | Role                |
 |------------|---------------------|
-| React.js   | Frontend UI         |    |
-| OpenAI API | AI chat integration |
+| React.js   | Frontend UI         |    
+| Gemini API | AI chat integration |
 | Vite       | Fast React bundler  |
 | TailwindCSS| Styling             |
 
@@ -29,8 +29,9 @@ BrainBoom is an AI-powered chatbot built using the **React.js** and integrated w
 
 ## 🧠 How it Works
 1. User enters a message in the chat UI.
-2. The frontend sends a request to the Open API.
-3. The AI-generated reply is sent back and displayed in the chat.
+2. The frontend sends a request to the Gemini API.
+3. The API processes the input and generates a response.
+4. The chatbot instantly displays AI-generated replies in the conversation feed.
 
 
 
